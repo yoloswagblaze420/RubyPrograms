@@ -1,4 +1,4 @@
-# yoloswag.rb
+# csvAnalyze.rb
 require 'csv'
 names = Array.new
 scores = Array.new
